@@ -1,5 +1,6 @@
 <body>
-<img class="header-img" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=A1E3F9&text=Welcome%20to%20-nl-GAEUN's%20GitHub&section=header&reversal=false&fontAlignY=38&fontAlign=49&animation=scaleIn&fontSize=52" alt="Welcome Banner">
+<!-- <img class="header-img" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=A1E3F9&text=Welcome%20to%20-nl-GAEUN's%20GitHub&section=header&reversal=false&fontAlignY=38&fontAlign=49&animation=scaleIn&fontSize=52" alt="Welcome Banner"> -->
+<img class="header-img" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=black&text=Welcome%20to%20-nl-Gaeun's%20GitHub&fontColor=A1E3F9&fontAlignY=42" alt="Welcome Banner">
 <h3 align=center>🛠Tech stack🛠</h3>
 <p align=center>Front</p>
 <div align=center class="badges">
