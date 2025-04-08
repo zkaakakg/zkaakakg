@@ -3,8 +3,8 @@
 <img class="header-img" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=80000000&text=Welcome%20to%20-nl-Gaeun's%20GitHub&fontColor=A1E3F9&fontAlignY=42" alt="Welcome Banner">
 <h3 align=center>💭SNS💭</h3>
 <div align=center>
-<img alt="Static Badge" src="https://img.shields.io/badge/velog-F2EFE7?style=flat-square&logo=Velog&logoColor=20C997&color=F2EFE7&link=https%3A%2F%2Fvelog.io%2F%40cscom000%2Fposts">
-<img alt="Static Badge" src="https://img.shields.io/badge/cscom222%40naver.com-DDEB9D?style=flat-square&logo=Mail.Ru&logoColor=black&color=DDEB9D">
+  <a href=https://velog.io/@cscom000/posts> <img alt="Static Badge" src="https://img.shields.io/badge/velog-F2EFE7?style=flat-square&logo=Velog&logoColor=20C997&color=F2EFE7&link=https%3A%2F%2Fvelog.io%2F%40cscom000%2Fposts"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/cscom222%40naver.com-DDEB9D?style=flat-square&logo=Mail.Ru&logoColor=black&color=DDEB9D">
 </div>
 <h3 align=center>🛠Tech stack🛠</h3>
 <!-- <p align=center>Front</p> -->
