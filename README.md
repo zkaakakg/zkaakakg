@@ -17,11 +17,15 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-48A6A7?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">
   <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> -->
    <img alt="Static Badge" src="https://img.shields.io/badge/React-0B192C?style=flat-square&logo=REACT">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=%23000000&labelColor=white">
+
 </div>
 <!-- <p align=center>Back</p> -->
 <div align=center class="badges">
   <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"> -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5D8736?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-%23F5ECD5?style=flat-square&logo=spring">
+
 </div>
 <!-- <p align=center>DB</p> -->
 <div align=center class="badges">
