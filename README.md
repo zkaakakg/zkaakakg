@@ -1,6 +1,15 @@
 <body>
 <!-- <img class="header-img" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=A1E3F9&text=Welcome%20to%20-nl-GAEUN's%20GitHub&section=header&reversal=false&fontAlignY=38&fontAlign=49&animation=scaleIn&fontSize=52" alt="Welcome Banner"> -->
 <img class="header-img" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=80000000&text=Welcome%20to%20-nl-Gaeun's%20GitHub&fontColor=A1E3F9&fontAlignY=42" alt="Welcome Banner">
+<div  align=center>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zkaakakg&utm_content=farm" >
+      <img
+        src="https://render.gitanimals.org/farms/zkaakakg"
+        width="600"
+        height="300"
+      />
+    </a>
+  </div>
 <h3 align=center>💭SNS💭</h3>
 <div align=center>
   <a href=https://velog.io/@cscom000/posts> <img alt="Static Badge" src="https://img.shields.io/badge/velog-F2EFE7?style=flat-square&logo=Velog&logoColor=20C997&color=F2EFE7&link=https%3A%2F%2Fvelog.io%2F%40cscom000%2Fposts"></a>
@@ -42,13 +51,6 @@
   </a>
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zkaakakg&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zkaakakg"
-  width="600"
-  height="300"
-/>
-</a>
 
 <!--
 **zkaakakg/zkaakakg** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
