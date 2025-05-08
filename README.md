@@ -51,6 +51,30 @@
   </a>
 </p>
 
+<details align=center>
+  <summary>📁 <strong>Projects</strong></summary>
+  <div align=center>
+
+| Project             | Descriptin                         | Stack                                          | Link                                            |
+| ------------------- | ---------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
+| 💸 **BUFL**         | 통장 쪼개기 자동화 서비스          | React, Node.js, express, MySQL                 | [🔗](https://github.com/Toss-middle-project)    |
+| 🔥 **엽떡 클론 앱** | 엽기떡볶이 오더 앱 클론 프로젝트   | React, Java, Spring Boot, OAuth2, MySQL        | [🔗](https://github.com/zkaakakg/yupdduk-clone) |
+| 📝 **To-Do List**   | 할 일을 관리하는 투두리스트 서비스 | Next.js, Type Script, Java, Spring Boot, MySQL | [🔗](https://github.com/zkaakakg/todo-list)     |
+
+  </div>
+</details>
+<br>
+<details align=center>
+  <summary>📖 <strong>Study</strong></summary>
+  <div align=center>
+  
+| Title            | Descriptin                          | Language   | Link                                                  |
+|------------------|--------------------------------------|------------|--------------------------------------------------------|
+| 📓 **자료구조**| 자료구조 정리 및 구현|Java| [🔗](https://github.com/zkaakakg/data-structure)     |
+| 🧩 **알고리즘**| 코딩테스트 문제 풀이  | Java | [🔗](https://github.com/zkaakakg/algorithm)   |
+| 💬 **한경 X tossbank**| 한국경제신문 with tossbank 풀스택 과정|HTML, CSS, Java Script, Type Script, Java, SQL | [🔗](https://github.com/zkaakakg/hk-with-tossbank)    
+  </div>
+</details>
 
 <!--
 **zkaakakg/zkaakakg** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
