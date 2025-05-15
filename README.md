@@ -18,34 +18,41 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/cscom222%40naver.com-DDEB9D?style=flat-square&logo=Mail.Ru&logoColor=black&color=DDEB9D">
 </div>
 <h3 align=center>🛠Tech stack🛠</h3>
-<!-- <p align=center>Front</p> -->
-<div align=center class="badges">
-  <!-- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-B8001F?style=flat-square&logo=html5&logoColor=white&color=B8001F">
-  <!-- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> -->
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-578FCA?style=flat-square&logo=CSS3">
-  <!-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> -->
- <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-48A6A7?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">
-  <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> -->
-   <img alt="Static Badge" src="https://img.shields.io/badge/React-0B192C?style=flat-square&logo=REACT">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=%23000000&labelColor=white">
+<table align="center">
+  <thead>
+    <tr>
+      <th><strong>Front</strong></th>
+      <th><strong>Back</strong></th>
+      <th><strong>Tool</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML-B8001F?style=flat-square&logo=html5&logoColor=white&color=B8001F">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-578FCA?style=flat-square&logo=CSS3"><br>
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-48A6A7?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">
+        <img alt="React" src="https://img.shields.io/badge/React-0B192C?style=flat-square&logo=REACT"><br>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=%23000000&labelColor=white">
+      </td>
+      <td align="center">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5D8736?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-%23F5ECD5?style=flat-square&logo=spring"><br>
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3D8D7A?style=flat-square&logo=MongoDB&logoColor=FFFFFF">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3674B5?style=flat-square&logo=MySQL&logoColor=FFFFFF">
+      </td>
+      <td align="center">
+         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"><br>
+        <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+        <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"><br>
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-222831?style=flat-square&logo=figma&logoColor=white">
+      </td>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
-<!-- <p align=center>Back</p> -->
-<div align=center class="badges">
-  <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"> -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5D8736?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-%23F5ECD5?style=flat-square&logo=spring">
-
-</div>
-<!-- <p align=center>DB</p> -->
-<div align=center class="badges">
-  <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-3D8D7A?style=flat-square&logo=MongoDB&logoColor=FFFFFF">
-  <!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-3674B5?style=flat-square&logo=MySQL&logoColor=FFFFFF">
-
-</div>
 <h3 align=center>✨Most USED Languages✨</h3>
 <p align=center>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zkaakakg&layout=compact?theme=graywhite">
@@ -55,6 +62,7 @@
 
 <details align=center>
   <summary>📁 <strong>Projects</strong></summary>
+  <br>
   <div align=center>
 
 | Project             | Descriptin                         | Stack                                          | Link                                            |
@@ -68,6 +76,7 @@
 <br>
 <details align=center>
   <summary>📖 <strong>Study</strong></summary>
+  <br>
   <div align=center>
   
 | Title            | Descriptin                          | Language   | Link                                                  |
