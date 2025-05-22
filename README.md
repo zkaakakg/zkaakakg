@@ -53,6 +53,7 @@
 
 <details align=center>
   <summary>📁 <strong>Projects</strong></summary>
+  <br>
   <div align=center>
 
 | Project             | Descriptin                         | Stack                                          | Link                                            |
@@ -66,6 +67,7 @@
 <br>
 <details align=center>
   <summary>📖 <strong>Study</strong></summary>
+  <br>
   <div align=center>
   
 | Title            | Descriptin                          | Language   | Link                                                  |
